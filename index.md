@@ -9,10 +9,19 @@
   - Twitter: [@not_hmr_but_ino](https://twitter.com/not_hmr_but_ino)
   - GitHub: [@inonoa](https://github.com/inonoa)
   - EMail: [(Gmail)](himura.kennsinn.degozaru@gmail.com)
+  - はてなブログ: [@inonoa](http://inonoa.hatenablog.com/)
 
 <img width="100" alt="icon1" src="./fly.png">
 <img width="100" alt="icon2" src="./iconoa.png">
-<img width="100" alt="icon3" src="./_icon_.png"> etc.
+<img width="100" alt="icon3" src="./icon.png"> etc.
+
+# 応用情報
+
+- 大体 Unity + C# 使い
+- [AtCoderを一旦やめて半年がたった](https://atcoder.jp/users/inonoa)
+  - 水色
+  - C#er
+- ハル研究所インターンシップ(プログラマのやつ)参加(2019年)
 
 # 作ったもの
 
