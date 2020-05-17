@@ -1,6 +1,10 @@
 
 こんにちは
 
+# お知らせ
+
+### **[Lacuna/Draft(仮)](https://unityroom.com/games/lacunadraft)をやってくれ！！！！！！！！！**
+
 # 基本情報
 
 - 名前: いの / inonoa
@@ -50,7 +54,7 @@
 
 # 作っているもの
 
-### Lacuna/Draft(仮)
+### [Lacuna/Draft(仮)](https://unityroom.com/games/lacunadraft)
 
 - [敵を避ける遊戯](#敵を避ける遊戯)の拡張版
   - スクロールする
