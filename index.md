@@ -3,7 +3,7 @@
 
 # お知らせ
 
-### **[Lacuna/Draft(仮)](https://unityroom.com/games/lacunadraft)をやってくれ！！！！！！！！！**
+### **[Link-Blinks](https://unityroom.com/games/linkblinks/)をやってくれ！！！！！！！！！**
 
 # 基本情報
 
@@ -51,6 +51,14 @@
 - ひたすら神にぜんざいを振る舞う
 - Unity製
 - 個人開発
+
+### [Link-Blinks](https://unityroom.com/games/linkblinks/)
+
+- 輪状にノードをつなげて消すパズル
+- 勝手に作った
+  - が、[#unity1week 「つながる」](https://unityroom.com/unity1weeks/12)を意識した
+- 音楽: bu / lv100 くん担当
+- Unity(そろそろUnity以外でなんかしたい気もする)
 
 # 作っているもの
 
