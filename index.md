@@ -25,9 +25,9 @@
 - [AtCoderを一旦やめて半年がたった](https://atcoder.jp/users/inonoa)
   - 水色
   - C#er
-- ハル研究所インターンシップ(プログラマのやつ)参加(2019年(当時は21卒だった))
-- [バンダイナムコスタジオ サマーインターン](https://bandainamcostudios.snar.jp/jobboard/detail.aspx?id=MsSbC-gblZG3Lj-X6dPUDw)参加
-- [Akatsuki Game Jam](https://recruit.aktsk.jp/students/gamejam2020/)参加
+- 2019年11月: ハル研究所インターンシップ(プログラマのやつ)参加(2019年(当時は21卒だった))
+- 2020年8月: [バンダイナムコスタジオ サマーインターン](https://bandainamcostudios.snar.jp/jobboard/detail.aspx?id=MsSbC-gblZG3Lj-X6dPUDw)参加
+- 2020年9月: [Akatsuki Game Jam](https://recruit.aktsk.jp/students/gamejam2020/)参加
   - 準優勝
 
 # 作ったもの
