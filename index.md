@@ -25,7 +25,10 @@
 - [AtCoderを一旦やめて半年がたった](https://atcoder.jp/users/inonoa)
   - 水色
   - C#er
-- ハル研究所インターンシップ(プログラマのやつ)参加(2019年)
+- ハル研究所インターンシップ(プログラマのやつ)参加(2019年(当時は21卒だった))
+- [バンダイナムコスタジオ サマーインターン](https://bandainamcostudios.snar.jp/jobboard/detail.aspx?id=MsSbC-gblZG3Lj-X6dPUDw)参加
+- [Akatsuki Game Jam](https://recruit.aktsk.jp/students/gamejam2020/)参加
+  - 準優勝
 
 # 作ったもの
 
@@ -59,6 +62,13 @@
   - が、[#unity1week 「つながる」](https://unityroom.com/unity1weeks/12)を意識した
 - 音楽: bu / lv100 くん担当
 - Unity(そろそろUnity以外でなんかしたい気もする)
+
+### [dopple](https://unityroom.com/games/dopple)
+
+- [#unity1week](https://unityroom.com/unity1weeks/17)にて
+- ドッペルゲンガー「を見ない」ように進む不思議のダンジョン
+- unity
+- 個人
 
 # 作っているもの
 
