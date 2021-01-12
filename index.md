@@ -1,10 +1,6 @@
 
 こんにちは
 
-# お知らせ
-
-### **[Link-Blinks](https://unityroom.com/games/linkblinks/)をやってくれ！！！！！！！！！**
-
 # 基本情報
 
 - 名前: いの / inonoa
@@ -65,9 +61,16 @@
 
 ### [dopple](https://unityroom.com/games/dopple)
 
-- [#unity1week](https://unityroom.com/unity1weeks/17)にて
+- [#unity1week 「ふえる」](https://unityroom.com/unity1weeks/17)にて
 - ドッペルゲンガー「を見ない」ように進む不思議のダンジョン
-- unity
+- Unity
+- 個人
+
+### [目をつぶっててきをたおすげーむ](https://unityroom.com/games/dryeyeblade)
+
+- [#unity1week 「あける」](https://unityroom.com/unity1weeks/18)にて
+- 目をつぶって敵を複数人斬ってザシュッ！！！
+- Unity
 - 個人
 
 # 作っているもの
