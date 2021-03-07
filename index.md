@@ -4,7 +4,7 @@
 # 基本情報
 
 - 名前: いの / inonoa
-- 所属: 京都大学総合人間学部 B4? (休学中) / [KMC (京大マイコンクラブ)](kmc.jp)
+- 所属: 京都大学総合人間学部 B4? (休学中) / [KMC (京大マイコンクラブ)](https://kmc.jp)
 - アカウントその他
   - Twitter: [@not_hmr_but_ino](https://twitter.com/not_hmr_but_ino)
   - GitHub: [@inonoa](https://github.com/inonoa)
